@@ -1,4 +1,4 @@
-#dev-jokes
+# dev-jokes
 
 Testing OpenAI API with a simple joke generator.
 
